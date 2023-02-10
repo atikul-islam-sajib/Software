@@ -1,7 +1,9 @@
 # Software
 
 
-Fortgeschrittene Softwaretechnik Project Title: Colon Cancer Classification using Deep Learning - CNN & Transfer Learning.Name: Atikul Islam Sajib. Matriculation Number: 929199
+Fortgeschrittene Softwaretechnik Project Title: Colon Cancer Classification using Deep Learning - CNN & Transfer Learning.
+Name: Atikul Islam Sajib.
+Matriculation Number: 929199
 
 ======================================== For 1 ========================================
 
@@ -21,8 +23,10 @@ UML Diagram: A UML diagram is a diagram based on the UML (Unified Modeling Langu
           
 1. Activity Diagram:
 https://github.com/atikul-islam-sajib/Software/blob/main/Diagram/Activity%20Digram.png
+
 2. Use Case Diagram:
 https://github.com/atikul-islam-sajib/Software/blob/main/Diagram/Use%20Case%20Diagram.jpg
+
 3. State Diagram
 https://github.com/atikul-islam-sajib/Software/blob/main/Diagram/State_Diagram.png
 
@@ -39,12 +43,13 @@ https://github.com/atikul-islam-sajib/Software/blob/main/DDD/DDD.png
 
 Clean Code Development: Clean code is code that is easy to understand and easy to change. In my project, I try to do clean coding. Five points for clean code:
 
-Use proper name for variable and method.
-Single purpose method.
-Write comment when needed.
-Don't use large number parameters.
-Handle error properly.
-All of Screnshort can be found in this link:
+ 							Use proper name for variable and method.
+ 							Single purpose method.
+							Write comment when needed.
+							Don't use large number parameters.
+							Handle error properly.
+							All of Screnshort can be found in this link:
+							
 
 https://github.com/atikul-islam-sajib/Software/tree/main/Cleaning_Code
 
