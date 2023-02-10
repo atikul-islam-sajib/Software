@@ -2,8 +2,8 @@
 
 
 Fortgeschrittene Softwaretechnik Project Title: Colon Cancer Classification using Deep Learning - CNN & Transfer Learning.
-Name: Atikul Islam Sajib.
-Matriculation Number: 929199
+								Name: Atikul Islam Sajib.
+								Matriculation Number: 929199
 
 ======================================== For 1 ========================================
 
