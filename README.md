@@ -44,12 +44,12 @@ https://github.com/atikul-islam-sajib/Software/blob/main/DDD/DDD.png
 
 Clean Code Development: Clean code is code that is easy to understand and easy to change. In my project, I try to do clean coding. Five points for clean code:
 
- 							Use proper name for variable and method.
- 							Single purpose method.
-							Write comment when needed.
-							Don't use large number parameters.
-							Handle error properly.
-							All of Screnshort can be found in this link:
+ 						Use proper name for variable and method.
+ 						Single purpose method.
+						Write comment when needed.
+						Don't use large number parameters.
+						Handle error properly.
+						All of Screnshort can be found in this link:
 							
 
 https://github.com/atikul-islam-sajib/Software/tree/main/Cleaning_Code
@@ -67,12 +67,15 @@ https://github.com/atikul-islam-sajib/Software/tree/main/Unit%20Testing
 
 
 ======================== For 9 ========================
+
 Integrated Development Environment(IDE): I used anaconda and jupyter notebook and Specially Google Colab Pro as my IDE. 
-My favourite shortcut is: write first few words and hit tab.
+My favourite shortcut is: write first few words and hit tab, Easy links to documentation, Plotting in notebooks, and IPython Magic – Timing.
 
 
 ======================== For 11 ========================
-Functinal Programming: 
+
+Functinal Programming: Functional programming (FP) is an approach to software development that uses pure functions to create maintainable software. In other words, building programs by applying and composing functions.
+
 I used some of the given functinal programming concept on my codebase. Some of points are implemented in functional_programming.ipynb. 
 The link is given below:
 
