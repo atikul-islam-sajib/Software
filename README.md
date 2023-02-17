@@ -43,7 +43,7 @@ ython checker allows to check your Python code syntax (Python 3), and find Pytho
 
 The Screenshoot is given below:
 
-https://github.com/atikul-islam-sajib/Software/tree/main/Project
+https://github.com/atikul-islam-sajib/Software/tree/main/Metrics
 
 
 
