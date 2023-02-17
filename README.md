@@ -71,7 +71,7 @@ https://github.com/atikul-islam-sajib/Software/tree/main/Cheat%20Seat
 ======================== For 7 ========================
 
 Unit test: Unit Testing is a type of software testing where individual units or components of a software are tested. For my project the unit test link is given below:
-https://github.com/atikul-islam-sajib/Software/tree/main/Unit%20Testing
+https://github.com/atikul-islam-sajib/Software/tree/main/Unit%20Test
 
 
 ======================== For 9 ========================
