@@ -1,0 +1,14 @@
+Python tester and checker allows to test Python code Online without install, all you need is a browser. You can test your Python code easily and quickly.
+
+This python sandbox uses Brython (BSD 3-Clause "New" or "Revised" License), it is a Python 3 implementation for client-side web programming. Brython is designed to replace Javascript for the Web. It is an interesting project!
+
+Be careful, there may be differences between the result obtained on this page, and the result you would obtain with a python interpreter.
+This page just allows you to quickly test a few lines of code.
+
+
+
+
+Link: 
+https://www.pythonchecker.com/
+https://extendsclass.com/python-tester.html
+
