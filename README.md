@@ -73,6 +73,12 @@ https://github.com/atikul-islam-sajib/Software/tree/main/Cheat%20Seat
 Unit test: Unit Testing is a type of software testing where individual units or components of a software are tested. For my project the unit test link is given below:
 https://github.com/atikul-islam-sajib/Software/tree/main/Unit%20Test
 
+========================= For 8 ========================
+
+Implementing a simple Python CI/CD pipeline using Github Actions. The link is given below:
+
+https://github.com/atikul-islam-sajib/Software/blob/main/.github/workflows/python-package.yml
+
 
 ======================== For 9 ========================
 
