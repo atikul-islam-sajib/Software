@@ -40,12 +40,10 @@ https://github.com/atikul-islam-sajib/Software/blob/main/DDD/DDD.png
 
 ======================== For 4===========================
 
-Python checker allows to check your Python code syntax (Python 3), and find Python errors. This Python code checker tool highlights and goes to line with a syntax error.
-
-Python tester and checker allows to test Python code Online without install, all you need is a browser. You can test your Python code easily and quickly.
-PyChecker and python-tester is a static analysis tool for Python that checks your code for common errors and issues. It can help you find problems in your code before you run it, which can save you time and reduce the risk of bugs and other issues.
+Python checker allows to check Python code syntax, and find Python errors and these tool highlights and goes to line with a syntax error.
+Python tester and checker allows to test Python code Online without install, all We need is a browser.
 				
-Here are some of the common issues that PyChecker and python-tester can help us detect:
+Some of the common issues can detect given below:
 
 1. Undefined variables
 
@@ -60,7 +58,7 @@ Here are some of the common issues that PyChecker and python-tester can help us 
 				
 `In this software, there is some red mark will be appeared, it does not mean that the code that I written is wrong. There is given some update, for example, Indentation, make space between two functions call etc that was mentioned in the above points. If I hover to the red mark then there is a tooltiptext would be apperaed there all the necessity steps are written.`
 
-Link: 
+Link for the browser of tools: 
 
 https://www.pythonchecker.com/
 https://extendsclass.com/python-tester.html
@@ -75,14 +73,14 @@ https://github.com/atikul-islam-sajib/Software/tree/main/Metrics
 
 Clean Code Development: Clean code is code that is easy to understand and easy to change. In my project, I try to do clean coding. here are five points to show you clean code in Python:
 
-1. Use proper name for variable and method : Variable name must define the exact explanation of its content.
+1. Appropriate name for variable and method : Variable name must define the exact explanation of its content.
 
 	link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/Screenshot_20230122_042259.png
 
-2. Proper indentation: Python relies on indentation to define the scope of code blocks.
+2. Appropriate indentation: Python depends on indentation to define the scope of code blocks.
 	link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/Error%20Handling.png
 
-3. Avoid long lines: Long lines of code can be difficult to read and understand.
+3. Avoid long lines: Long lines of code can be difficult to read and understand most of the cases.
 
 	link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_1.png
 
@@ -104,14 +102,6 @@ The personal CCD cheat Sheet E.g. a PDF link is given below:
 
 https://github.com/atikul-islam-sajib/Software/blob/main/CCD-CS.pdf
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-This is the optional Cheat Sheet of using Neural Network and CNN architecture from the project, it is used for the learning purpose.
-
-The architecture of NN and CNN cheat sheet is given below:
-
-https://github.com/atikul-islam-sajib/Software/tree/main/Cheat%20Seat
-
 ======================== For 7 ========================
 
 Unit test: Unit Testing is a type of software testing where individual units or components of a software are tested. For my project the unit test link is given below:
@@ -131,10 +121,10 @@ Integrated Development Environment(IDE): I used Google Colab pro a web IDE for p
 
 In Google Colab pro my fav key-shortcuts is:
 
-1. Insert code cell using `ctrl + m + b`
-2. Delete cell using `ctrl + m + d`
-3. Mount  GOOGLE DRIVE TO Colab. Just click `Copy to Drive` to mount the drive.
-4. Active GPU & TPU just clicking `Runtime → Change runtime type → Hardware accelerator`
+1. Insert code cell using `ctrl + m + b` easily. More or less I used 40+ cell to write the code and evaluating the model.
+2. Delete cell using `ctrl + m + d` - when the cell is not necessary.
+3. Mount  GOOGLE DRIVE TO Colab. Just click `Copy to Drive` to mount the drive. That helped me to access the drive where all my image dataset present.
+4. Active GPU & TPU just clicking `Runtime → Change runtime type → Hardware accelerator`.
 5. Run BASH Commands, for example, if I want to clone git repository then run it on the cell `!git clone <REPOSITORY URL>`
 6. Use TENSORBOARD With Colab - It is useful for deep learning because it will give the proper information about loss and accuracy plot in each epoch. run `%load_ext tensorboard` in the cell.
 
