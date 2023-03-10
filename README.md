@@ -122,7 +122,35 @@ https://github.com/atikul-islam-sajib/Software/blob/main/.github/workflows/pytho
 
 Integrated Development Environment(IDE):
 
-Visual Studio is a popular Integrated Development Environment (IDE) that provides a comprehensive set of tools for developing Python applications. Here are some reasons why Visual Studio is considered easy for Python development:
+I used Google Colab Pro and Visual Studio as well to this project. I am going to describe the benefits of using those IDE's in here.
+
+Here are some benefits of using Google Colab Pro:
+------------------------------------------------
+
+More powerful hardware: With Colab Pro, you get access to more powerful GPUs, TPUs, and CPUs compared to the free version. This means you can run more complex and larger models faster and more efficiently.
+
+Longer runtimes: Colab Pro offers longer runtimes compared to the free version, which allows you to train larger models that require more time to run.
+
+More memory and storage: Colab Pro offers more RAM and disk storage than the free version, which can be crucial when working with large datasets.
+
+Priority access: Colab Pro subscribers get priority access to Google's computing resources, which means that your jobs will be queued and run faster than the free version.
+
+Collaborative features: With Colab Pro, you can collaborate with others in real-time, making it easier to work on projects with a team or get help from others.
+
+No interruption: Colab Pro users get uninterrupted access to computing resources, which means that your sessions will not be interrupted or terminated after a certain amount of time.
+
+Access to premium libraries: Colab Pro users can access premium libraries and services such as Google Drive, Google Sheets, and Google BigQuery, which can be helpful when working on data-intensive projects.
+
+Affordable pricing: Colab Pro is significantly more affordable compared to other cloud computing platforms, making it accessible to a wider range of users.
+
+Overall, Google Colab Pro offers many benefits for data scientists, machine learning practitioners, and researchers who need access to powerful computing resources without breaking the bank.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Visual Studio is a popular Integrated Development Environment (IDE) that provides a comprehensive set of tools for developing Python applications.
+
+Here are some reasons why Visual Studio is considered easy for Python development:
+----------------------------------------------------------------------------------
 
 1. User-friendly interface: Visual Studio provides a user-friendly interface with features like Intellisense, which offers intelligent code completion, making it easy for developers to write Python code quickly and efficiently.
 
