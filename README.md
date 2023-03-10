@@ -71,7 +71,7 @@ https://github.com/atikul-islam-sajib/Software/tree/main/Metrics
 
 ======================== For 5(A) ========================
 
-Clean Code Development: Clean code is code that is easy to understand and easy to change. In my project, I try to do clean coding. here are five points to show you clean code in Python:
+Clean Code Development: Clean code is code that is easy to understand and easy to change. In my project, I try to do clean coding. here are five points to show my clean code in Python:
 
 1. Appropriate name for variable and method : Variable name must define the exact explanation of its content.
 
