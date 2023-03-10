@@ -42,6 +42,17 @@ https://github.com/atikul-islam-sajib/Software/blob/main/DDD/DDD.png
 
 Python checker allows to check your Python code syntax (Python 3), and find Python errors. This Python code checker tool highlights and goes to line with a syntax error.
 
+Python tester and checker allows to test Python code Online without install, all you need is a browser. You can test your Python code easily and quickly.
+
+This python sandbox uses Brython (BSD 3-Clause "New" or "Revised" License), it is a Python 3 implementation for client-side web programming. Brython is designed to replace Javascript for the Web. It is an interesting project!
+
+Be careful, there may be differences between the result obtained on this page, and the result you would obtain with a python interpreter.
+This page just allows you to quickly test a few lines of code.
+
+Link: 
+https://www.pythonchecker.com/
+https://extendsclass.com/python-tester.html
+
 The Screenshoot is given below:
 
 https://github.com/atikul-islam-sajib/Software/tree/main/Metrics
