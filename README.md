@@ -111,6 +111,9 @@ link for classes   :https://github.com/atikul-islam-sajib/Software/blob/main/Cle
 
                    -------------------------------------------------------------------------------------------------------------------
 		   
+======================================================  For 5(B) ===========================================================
+
+
 The personal CCD cheat Sheet E.g. a PDF link is given below:
 
 Here, The 10 points I have mentioned:
@@ -127,15 +130,16 @@ Here, The 10 points I have mentioned:
 9. Write simple and readable code
 10. Use built-in functions and libraries
 
-The LINK is given below:
-
+The 10 points of CCD LINK is given below:
 
 https://github.com/atikul-islam-sajib/Software/blob/main/CCD-Cheat-Sheet.pdf
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-========================  For 5(B) ========================
+This is the optional Cheat Sheet of using Neural Network and CNN architecture from the prject.
 
-Cheat Sheet: I write a cheat sheet for python programming. The link is given below:
+The architecture of NN and CNN cheat sheet is given below:
+
 https://github.com/atikul-islam-sajib/Software/tree/main/Cheat%20Seat
 
 ======================== For 7 ========================
