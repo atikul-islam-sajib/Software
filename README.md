@@ -43,39 +43,25 @@ https://github.com/atikul-islam-sajib/Software/blob/main/DDD/DDD.png
 Python checker allows to check your Python code syntax (Python 3), and find Python errors. This Python code checker tool highlights and goes to line with a syntax error.
 
 Python tester and checker allows to test Python code Online without install, all you need is a browser. You can test your Python code easily and quickly.
-
-This python sandbox uses Brython (BSD 3-Clause "New" or "Revised" License), it is a Python 3 implementation for client-side web programming. Brython is designed to replace Javascript for the Web. It is an interesting project!
-
-Be careful, there may be differences between the result obtained on this page, and the result you would obtain with a python interpreter.
-This page just allows you to quickly test a few lines of code.
-
-                                 
-				PyChecker is a static analysis tool for Python that checks your code for common errors and issues. 
-				It can help you find problems in your code before you run it, which can save you time and reduce the risk of bugs and other issues.
+PyChecker and python-tester is a static analysis tool for Python that checks your code for common errors and issues. It can help you find problems in your code before you run it, which can save you time and reduce the risk of bugs and other issues.
 				
-				Similarly, python-tester is a third-party testing framework that is popular in the Python community. 
-				It offers a more concise syntax for writing tests, and provides a number of advanced features such as
-				fixtures for setting up test data and parametrized testing.
+Here are some of the common issues that PyChecker and python-tester can help you detect:
 
-				Here are some of the common issues that PyChecker and python-tester can help you detect:
-				--------------------------------------------------------------------------------------------------------------------
+1. Undefined variables
 
-			        1. Undefined variables: It can detect when you try to use a variable that has not been defined in your code.
+2. Unused variables
 
-				2. Unused variables: It can detect when you define a variable but never use it in your code.
+3. Unused imports
 
-				3. Unused imports: It can detect when you import a module but never use any of its functions or classes.
+4. Function call errors
 
-				4. Function call errors: It can detect when you call a function with the wrong number or type of arguments.
-
-                                5. Attribute errors: It can detect when you try to access an attribute that does not exist on an object.
+5. Attribute errors
 				
 				
-				
-
-`In this software, there is some red mark will be appeared, it does not mean that the code that I written is wrong. There is given some update, for example, Indentation, make space between two functions call etc. If we hover to the red mark then there is a tooltiptext would be apperaed there all the necessity steps are written.`
+`In this software, there is some red mark will be appeared, it does not mean that the code that I written is wrong. There is given some update, for example, Indentation, make space between two functions call etc that was mentioned in the above points. If I hover to the red mark then there is a tooltiptext would be apperaed there all the necessity steps are written.`
 
 Link: 
+
 https://www.pythonchecker.com/
 https://extendsclass.com/python-tester.html
 
