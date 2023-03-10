@@ -146,6 +146,7 @@ Affordable pricing: Colab Pro is significantly more affordable compared to other
 Overall, Google Colab Pro offers many benefits for data scientists, machine learning practitioners, and researchers who need access to powerful computing resources without breaking the bank.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Visual Studio is a popular Integrated Development Environment (IDE) that provides a comprehensive set of tools for developing Python applications.
 
