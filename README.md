@@ -121,12 +121,28 @@ Integrated Development Environment(IDE): I used Google Colab pro a web IDE for p
 
 In Google Colab pro my fav key-shortcuts is:
 
-1. Insert code cell using `ctrl + m + b` easily. More or less I used 40+ cell to write the code and evaluating the model.
+1. Insert code cell using `ctrl + m + b` or `+ Code` - that is present in the above. More or less I used 40+ cell to write the code and evaluating the model.
+ link: https://github.com/atikul-islam-sajib/Software/blob/main/IDE-key-shortcut/insert-cell.jpg
+ 
 2. Delete cell using `ctrl + m + d` - when the cell is not necessary.
+
+ link: https://github.com/atikul-islam-sajib/Software/blob/main/IDE-key-shortcut/delete-cell.jpg
+ 
 3. Mount  GOOGLE DRIVE TO Colab. Just click `Copy to Drive` to mount the drive. That helped me to access the drive where all my image dataset present.
+
+ link: https://github.com/atikul-islam-sajib/Software/tree/main/IDE-key-shortcut
+ 
 4. Active GPU & TPU just clicking `Runtime → Change runtime type → Hardware accelerator`.
+
+ link: https://github.com/atikul-islam-sajib/Software/blob/main/IDE-key-shortcut/set-GPU-TPU.png
+ 
 5. Run BASH Commands, for example, if I want to clone git repository then run it on the cell `!git clone <REPOSITORY URL>`
+
+ link: https://github.com/atikul-islam-sajib/Software/blob/main/IDE-key-shortcut/git-clone.png
+ 
 6. Use TENSORBOARD With Colab - It is useful for deep learning because it will give the proper information about loss and accuracy plot in each epoch. run `%load_ext tensorboard` in the cell.
+
+  link: https://github.com/atikul-islam-sajib/Software/blob/main/IDE-key-shortcut/tensorboard.png
 
 ======================== For 11 ========================
 
