@@ -116,23 +116,7 @@ Clean Code Development: Clean code is code that is easy to understand and easy t
 
 The personal CCD cheat Sheet E.g. a PDF link is given below:
 
-Here, The 10 points I have mentioned:
-
-
-1. Use meaningful names for variables, functions, and classes
-2. Write small and focused functions
-3. Use comments sparingly and only when necessary
-4. Follow the PEP 8 style guide
-5. Use docstrings to document functions and classes
-6. Write tests for your code
-7. Use exceptions to handle errors
-8. Use constants or configuration files instead of hardcoding values
-9. Write simple and readable code
-10. Use built-in functions and libraries
-
-The 10 points of CCD LINK is given below:
-
-https://github.com/atikul-islam-sajib/Software/blob/main/CCD-Cheat-Sheet.pdf
+https://github.com/atikul-islam-sajib/Software/blob/main/CCD-CS.pdf
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
