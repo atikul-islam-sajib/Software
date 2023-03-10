@@ -184,7 +184,7 @@ https://github.com/atikul-islam-sajib/Software/blob/831794185a54f4151d14e29ef029
 
 3. anonymous functions: 
 
-https://github.com/atikul-islam-sajib/Software/blob/152df2068d37dccc9addcc53e6ebf49e840e04af/Project/colon_cancer_classification_using_cnn_%26_transfer_learning_%26_fine_tuning%20updated1.py#L169
+https://github.com/atikul-islam-sajib/Software/blob/9d944553d412c5fefdec05fc54504fb1b8f870c4/Project/colon_cancer_classification_using_cnn_%26_transfer_learning_%26_fine_tuning%20updated1.py#L167-L170
 
 4. Functions as parametrs and return values
 
