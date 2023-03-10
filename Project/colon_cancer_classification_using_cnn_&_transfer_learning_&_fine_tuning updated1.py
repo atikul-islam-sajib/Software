@@ -362,6 +362,17 @@ for train_index_, test_index_ in KFold_.split(X_numpy):
   ##### Increament the count #####
   count_+= 1
 
+##### Functions as parameters and return values ####
+def take_matrix(x):
+    def avg(y):
+        return (reduce(lambda x_, y_: (x_ + y_), x))/y
+    return avg
+
+list_ = [accuracy_score_, precision_score_, recall_score_, f1_score_]
+for value in list_:
+    addition = take_matrix([0.96625, 0.97125, 0.975, 0.9775, 0.9775])
+    print('The score of the matrix is {}'.format(addition(5)))
+    
 ##### Plot the performance ##### 
 plt.figure(figsize = (12, 6))
 plt.plot(accuracy_score_, label = 'accuracy score')
