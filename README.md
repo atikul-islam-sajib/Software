@@ -136,7 +136,7 @@ https://github.com/atikul-islam-sajib/Software/blob/main/CCD-Cheat-Sheet.pdf
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This is the optional Cheat Sheet of using Neural Network and CNN architecture from the prject.
+This is the optional Cheat Sheet of using Neural Network and CNN architecture from the project, it is used for the learning purpose.
 
 The architecture of NN and CNN cheat sheet is given below:
 
