@@ -173,6 +173,22 @@ In Google Colab pro my fav key-shortcuts is:
 Functinal Programming: Functional programming (FP) is an approach to software development that uses pure functions to create maintainable software. In other words, building programs by applying and composing functions.
 
 I used some of the given functinal programming concept on my codebase. Some of points are implemented in functional_programming.ipynb. 
+1. Side Effect free function: 
+
+
+https://github.com/atikul-islam-sajib/Software/blob/831794185a54f4151d14e29ef029882b6979664a/Project/colon_cancer_classification_using_cnn_%26_transfer_learning_%26_fine_tuning%20updated1.py#L793-L798
+
+2. The use of higher-order functions:
+
+https://github.com/atikul-islam-sajib/Software/blob/831794185a54f4151d14e29ef029882b6979664a/Project/colon_cancer_classification_using_cnn_%26_transfer_learning_%26_fine_tuning%20updated1.py#L812-L816
+
+3. anonymous functions: 
+
+https://github.com/atikul-islam-sajib/Software/blob/152df2068d37dccc9addcc53e6ebf49e840e04af/Project/colon_cancer_classification_using_cnn_%26_transfer_learning_%26_fine_tuning%20updated1.py#L169
+
+4. Functions as parametrs and return values
+
+https://github.com/atikul-islam-sajib/Software/blob/451c0041a0787be4f8b087f3403a0d93b0f16be9/Project/colon_cancer_classification_using_cnn_%26_transfer_learning_%26_fine_tuning%20updated1.py#L365-L374
 
 The link is given below:
 
