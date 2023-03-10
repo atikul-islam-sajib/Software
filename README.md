@@ -91,23 +91,24 @@ Clean Code Development: Clean code is code that is easy to understand and easy t
 
 1. Use of descriptive variable names: When writing clean code, it's important to use descriptive variable names that are easy to understand. This makes the code more readable and maintainable. For example, instead of using a variable name like "a", you can use a more descriptive name like "num_of_items" or "customer_name".
 
-link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/Screenshot_20230122_042259.png
+	link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/Screenshot_20230122_042259.png
 
 2. Proper indentation: Python relies on indentation to define the scope of code blocks. Therefore, it's important to use proper indentation to make your code more readable. For example, each level of indentation should be four spaces.
-link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/Error%20Handling.png
+	link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/Error%20Handling.png
 
 3. Avoid long lines: Long lines of code can be difficult to read and understand. It's recommended to keep lines of code to a maximum of 79 characters. If a line needs to be longer than this, you can split it into multiple lines using parentheses.
 
-link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_1.png
+	link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_1.png
 
 4. Use of comments: Comments are useful for explaining what your code is doing and why you're doing it. However, it's important to use them sparingly and only when necessary. Too many comments can clutter your code and make it harder to read.
 
-link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_3.png
+	link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_3.png
 
 5. Consistent naming conventions: When naming variables, functions, and classes, it's important to follow a consistent naming convention. This makes it easier to understand the purpose of each item in your code. For example, you can use camelCase or snake_case for variable names, depending on your personal preference.
 
-link for functions :https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_2.png
-link for classes   :https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/Screenshot_20230122_042035.png
+	link for functions :https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_2.png
+	
+	link for classes   :https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/Screenshot_20230122_042035.png
 
                    -------------------------------------------------------------------------------------------------------------------
 		   
@@ -180,6 +181,8 @@ Here are some benefits of using Google Colab Pro:
 
 Overall, Google Colab Pro offers many benefits for data scientists, machine learning practitioners, and researchers who need access to powerful computing resources without breaking the bank. It is very useful when solving Image Classification task because it will take too much time to train if there is no High Ram.
 
+According to me, I like their `More powerful hardware`, `Collaborative features` and `More memory and storage` that is really useful for training the big dataset.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -200,11 +203,14 @@ Integration with popular Python frameworks and libraries: Visual Studio integrat
 
 Overall, Visual Studio provides a comprehensive set of tools and features that make it easy for developers to write, test, and deploy Python applications.
 
+In this IDE, I like their `Rich set of features`, `Collaboration tools` & `User-friendly interface` tools that really make my coding easier and flexible.
+
 ======================== For 11 ========================
 
 Functinal Programming: Functional programming (FP) is an approach to software development that uses pure functions to create maintainable software. In other words, building programs by applying and composing functions.
 
 I used some of the given functinal programming concept on my codebase. Some of points are implemented in functional_programming.ipynb. 
+
 The link is given below:
 
 https://github.com/atikul-islam-sajib/Software/tree/main/Functional%20Programming
