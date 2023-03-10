@@ -129,19 +129,19 @@ Here are some benefits of using Google Colab Pro:
 
 More powerful hardware: With Colab Pro, you get access to more powerful GPUs, TPUs, and CPUs compared to the free version. This means you can run more complex and larger models faster and more efficiently.
 
-Longer runtimes: Colab Pro offers longer runtimes compared to the free version, which allows you to train larger models that require more time to run.
+1. Longer runtimes: Colab Pro offers longer runtimes compared to the free version, which allows you to train larger models that require more time to run.
 
-More memory and storage: Colab Pro offers more RAM and disk storage than the free version, which can be crucial when working with large datasets.
+2. More memory and storage: Colab Pro offers more RAM and disk storage than the free version, which can be crucial when working with large datasets.
 
-Priority access: Colab Pro subscribers get priority access to Google's computing resources, which means that your jobs will be queued and run faster than the free version.
+3. Priority access: Colab Pro subscribers get priority access to Google's computing resources, which means that your jobs will be queued and run faster than the free version.
 
-Collaborative features: With Colab Pro, you can collaborate with others in real-time, making it easier to work on projects with a team or get help from others.
+4. Collaborative features: With Colab Pro, you can collaborate with others in real-time, making it easier to work on projects with a team or get help from others.
 
-No interruption: Colab Pro users get uninterrupted access to computing resources, which means that your sessions will not be interrupted or terminated after a certain amount of time.
+5. No interruption: Colab Pro users get uninterrupted access to computing resources, which means that your sessions will not be interrupted or terminated after a certain amount of time.
 
-Access to premium libraries: Colab Pro users can access premium libraries and services such as Google Drive, Google Sheets, and Google BigQuery, which can be helpful when working on data-intensive projects.
+6. Access to premium libraries: Colab Pro users can access premium libraries and services such as Google Drive, Google Sheets, and Google BigQuery, which can be helpful when working on data-intensive projects.
 
-Affordable pricing: Colab Pro is significantly more affordable compared to other cloud computing platforms, making it accessible to a wider range of users.
+7. Affordable pricing: Colab Pro is significantly more affordable compared to other cloud computing platforms, making it accessible to a wider range of users.
 
 Overall, Google Colab Pro offers many benefits for data scientists, machine learning practitioners, and researchers who need access to powerful computing resources without breaking the bank.
 
