@@ -53,7 +53,9 @@ This page just allows you to quickly test a few lines of code.
 				PyChecker is a static analysis tool for Python that checks your code for common errors and issues. 
 				It can help you find problems in your code before you run it, which can save you time and reduce the risk of bugs and other issues.
 				
-				Similarly, python-tester is a third-party testing framework that is popular in the Python community. It offers a more concise syntax 				     for writing tests, and provides a number of advanced features such as fixtures for setting up test data and parametrized testing.
+				Similarly, python-tester is a third-party testing framework that is popular in the Python community. 
+				It offers a more concise syntax for writing tests, and provides a number of advanced features such as
+				fixtures for setting up test data and parametrized testing.
 
 				Here are some of the common issues that PyChecker can help you detect:
 				-------------------------------------------------------------------------------
@@ -66,7 +68,7 @@ This page just allows you to quickly test a few lines of code.
 
 				4. Function call errors: PyChecker can detect when you call a function with the wrong number or type of arguments.
 
-                                5. Attribute errors: PyChecker can detect when you try to access an attribute that does not exist on an object.
+                              5. Attribute errors: PyChecker can detect when you try to access an attribute that does not exist on an object.
 				
 				
 				
