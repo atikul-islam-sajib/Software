@@ -107,8 +107,30 @@ link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cle
 5. Consistent naming conventions: When naming variables, functions, and classes, it's important to follow a consistent naming convention. This makes it easier to understand the purpose of each item in your code. For example, you can use camelCase or snake_case for variable names, depending on your personal preference.
 
 link for functions :https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_2.png
-
 link for classes   :https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/Screenshot_20230122_042035.png
+
+                   -------------------------------------------------------------------------------------------------------------------
+		   
+The personal CCD cheat Sheet E.g. a PDF link is given below:
+
+Here, The 10 points I have mentioned:
+
+
+1. Use meaningful names for variables, functions, and classes
+2. Write small and focused functions
+3. Use comments sparingly and only when necessary
+4. Follow the PEP 8 style guide
+5. Use docstrings to document functions and classes
+6. Write tests for your code
+7. Use exceptions to handle errors
+8. Use constants or configuration files instead of hardcoding values
+9. Write simple and readable code
+10. Use built-in functions and libraries
+
+The LINK is given below:
+
+
+https://github.com/atikul-islam-sajib/Software/blob/main/CCD-Cheat-Sheet.pdf
 
 
 ========================  For 5(B) ========================
