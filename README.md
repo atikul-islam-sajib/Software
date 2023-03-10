@@ -153,35 +153,33 @@ https://github.com/atikul-islam-sajib/Software/blob/main/.github/workflows/pytho
 
 ======================== For 9 ========================
 
-Integrated Development Environment(IDE):
-
-I used Google Colab Pro and Visual Studio as well to this project. I am going to describe the benefits of using those IDE's in here.
+Integrated Development Environment(IDE): I used Google Colab Pro and Visual Studio as well to this project. I am going to describe the benefits of using those IDE's in here.
 
 Here are some benefits of using Google Colab Pro:
 ------------------------------------------------
 
-More powerful hardware: With Colab Pro, you get access to more powerful GPUs, TPUs, and CPUs compared to the free version. This means you can run more complex and larger models faster and more efficiently.
+1. More powerful hardware: With Colab Pro, I get access to more powerful GPUs, TPUs, and CPUs compared to the free version. This means you can run more complex and larger models faster and more efficiently. In this code, I used P100 tesla and 32 GB High Ram to train the model.
 
-1. Longer runtimes: Colab Pro offers longer runtimes compared to the free version, which allows you to train larger models that require more time to run.
+2. Longer runtimes: Colab Pro offers longer runtimes compared to the free version, which allows you to train larger models that require more time to run.
 
-2. More memory and storage: Colab Pro offers more RAM and disk storage than the free version, which can be crucial when working with large datasets.
+3. More memory and storage: Colab Pro offers more RAM and disk storage than the free version, which can be crucial when working with large datasets.
 
-3. Priority access: Colab Pro subscribers get priority access to Google's computing resources, which means that your jobs will be queued and run faster than the free version.
+4. Priority access: Colab Pro subscribers get priority access to Google's computing resources, which means that your jobs will be queued and run faster than the free version.
 
-4. Collaborative features: With Colab Pro, you can collaborate with others in real-time, making it easier to work on projects with a team or get help from others.
+5. Collaborative features: With Colab Pro, you can collaborate with others in real-time, making it easier to work on projects with a team or get help from others.
 
-5. No interruption: Colab Pro users get uninterrupted access to computing resources, which means that your sessions will not be interrupted or terminated after a certain amount of time.
+6. No interruption: Colab Pro users get uninterrupted access to computing resources, which means that your sessions will not be interrupted or terminated after a certain amount of time.
 
-6. Access to premium libraries: Colab Pro users can access premium libraries and services such as Google Drive, Google Sheets, and Google BigQuery, which can be helpful when working on data-intensive projects.
+7. Access to premium libraries: Colab Pro users can access premium libraries and services such as Google Drive, Google Sheets, and Google BigQuery, which can be helpful when working on data-intensive projects.
 
-7. Affordable pricing: Colab Pro is significantly more affordable compared to other cloud computing platforms, making it accessible to a wider range of users.
+8. Affordable pricing: Colab Pro is significantly more affordable compared to other cloud computing platforms, making it accessible to a wider range of users.
 
-Overall, Google Colab Pro offers many benefits for data scientists, machine learning practitioners, and researchers who need access to powerful computing resources without breaking the bank.
+Overall, Google Colab Pro offers many benefits for data scientists, machine learning practitioners, and researchers who need access to powerful computing resources without breaking the bank. It is very useful when solving Image Classification task because it will take too much time to train if there is no High Ram.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Visual Studio is a popular Integrated Development Environment (IDE) that provides a comprehensive set of tools for developing Python applications.
+Besides, Visual Studio is a popular Integrated Development Environment (IDE) that provides a comprehensive set of tools for developing Python applications. I used it as well.
 
 Here are some reasons why Visual Studio is considered easy for Python development:
 ----------------------------------------------------------------------------------
@@ -206,7 +204,3 @@ I used some of the given functinal programming concept on my codebase. Some of p
 The link is given below:
 
 https://github.com/atikul-islam-sajib/Software/tree/main/Functional%20Programming
-
-
-
-
