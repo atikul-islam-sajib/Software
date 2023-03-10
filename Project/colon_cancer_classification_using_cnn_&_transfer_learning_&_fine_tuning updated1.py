@@ -165,7 +165,8 @@ for img, ax in zip(image_list_, axs):
 plt.show()
 
 ##### shuffle the data in order to prevent the biasness #####
-random.shuffle(data)
+data_shuffle = lambda x: random.shuffle(x)
+data = (data_shuffle(data))
 
 ##### Split the dataset into independent and dependent varibales #####
 X, y = [], []
