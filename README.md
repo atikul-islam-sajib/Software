@@ -49,6 +49,27 @@ This python sandbox uses Brython (BSD 3-Clause "New" or "Revised" License), it i
 Be careful, there may be differences between the result obtained on this page, and the result you would obtain with a python interpreter.
 This page just allows you to quickly test a few lines of code.
 
+                                 
+				PyChecker is a static analysis tool for Python that checks your code for common errors and issues. It can help you find problems in 				    your code before you run it, which can save you time and reduce the risk of bugs and other issues.
+				
+				Similarly, python-tester is a third-party testing framework that is popular in the Python community. It offers a more concise syntax 				     for writing tests, and provides a number of advanced features such as fixtures for setting up test data and parametrized testing.
+
+				Here are some of the common issues that PyChecker can help you detect:
+				-------------------------------------------------------------------------------
+
+			        1. Undefined variables: PyChecker can detect when you try to use a variable that has not been defined in your code.
+
+				2. Unused variables: PyChecker can detect when you define a variable but never use it in your code.
+
+				3. Unused imports: PyChecker can detect when you import a module but never use any of its functions or classes.
+
+				4. Function call errors: PyChecker can detect when you call a function with the wrong number or type of arguments.
+
+                                5. Attribute errors: PyChecker can detect when you try to access an attribute that does not exist on an object.
+				
+				
+				
+
 `In this software, there is some red mark will be appeared, it does not mean that the code that I written is wrong. There is given some update, for example, Indentation, make space between two functions call etc. If we hover to the red mark then there is a tooltiptext would be apperaed there all the necessity steps are written.`
 
 Link: 
