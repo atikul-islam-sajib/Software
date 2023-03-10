@@ -82,7 +82,7 @@ Clean Code Development: Clean code is code that is easy to understand and easy t
 
 3. Avoid long lines: Long lines of code can be difficult to read and understand most of the cases.
 
-	link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_1.png
+	link: https://github.com/atikul-islam-sajib/Software/blob/f166d4d3f2ea67a380f82e30c6611149f1ce87e5/Project/colon_cancer_classification_using_cnn_%26_transfer_learning_%26_fine_tuning%20updated1.py#L171-L177
 
 4. Use of comments: it's important to use them sparingly and only when necessary.
 	link: https://github.com/atikul-islam-sajib/Software/blob/f166d4d3f2ea67a380f82e30c6611149f1ce87e5/Project/colon_cancer_classification_using_cnn_%26_transfer_learning_%26_fine_tuning%20updated1.py#L319-L354
