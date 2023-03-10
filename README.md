@@ -104,9 +104,11 @@ link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cle
 
 link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_3.png
 
-5. Consistent naming conventions: When naming variables, functions, and classes, it's important to follow a consistent naming convention. This makes it easier to understand the purpose of each item in your code. For example, you can use camelCase or snake_case for variable names, depending on your personal preference. Similarly, you can use PascalCase for class names.
+5. Consistent naming conventions: When naming variables, functions, and classes, it's important to follow a consistent naming convention. This makes it easier to understand the purpose of each item in your code. For example, you can use camelCase or snake_case for variable names, depending on your personal preference.
 
-link:https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_2.png
+link for functions :https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_2.png
+
+link for classes   :https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/Screenshot_20230122_042035.png
 
 
 ========================  For 5(B) ========================
