@@ -370,7 +370,7 @@ def take_matrix(x):
 
 list_ = [accuracy_score_, precision_score_, recall_score_, f1_score_]
 for value in list_:
-    addition = take_matrix([0.96625, 0.97125, 0.975, 0.9775, 0.9775])
+    addition = take_matrix(value)
     print('The score of the matrix is {}'.format(addition(5)))
     
 ##### Plot the performance ##### 
