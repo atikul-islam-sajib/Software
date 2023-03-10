@@ -75,23 +75,23 @@ Clean Code Development: Clean code is code that is easy to understand and easy t
 
 1. Appropriate name for variable and method : Variable name must define the exact explanation of its content.
 
-	link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/Screenshot_20230122_042259.png
+	link: https://github.com/atikul-islam-sajib/Software/blob/abac2377fb467c5b317a2ebc16824d6c32c1d03d/Project/colon_cancer_classification_using_cnn_%26_transfer_learning_%26_fine_tuning%20updated1.py#L138-L156
 
 2. Appropriate indentation: Python depends on indentation to define the scope of code blocks.
-	link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/Error%20Handling.png
+	link: https://github.com/atikul-islam-sajib/Software/blob/f166d4d3f2ea67a380f82e30c6611149f1ce87e5/Project/colon_cancer_classification_using_cnn_%26_transfer_learning_%26_fine_tuning%20updated1.py#L891-L897
 
 3. Avoid long lines: Long lines of code can be difficult to read and understand most of the cases.
 
 	link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_1.png
 
 4. Use of comments: it's important to use them sparingly and only when necessary.
-	link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_3.png
+	link: https://github.com/atikul-islam-sajib/Software/blob/f166d4d3f2ea67a380f82e30c6611149f1ce87e5/Project/colon_cancer_classification_using_cnn_%26_transfer_learning_%26_fine_tuning%20updated1.py#L319-L354
 
 5. Consistent naming conventions: When naming variables, functions, and classes, it's important to follow a consistent naming convention. 
 
-	link for functions :https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_2.png
+	link for functions : https://github.com/atikul-islam-sajib/Software/blob/f166d4d3f2ea67a380f82e30c6611149f1ce87e5/Project/colon_cancer_classification_using_cnn_%26_transfer_learning_%26_fine_tuning%20updated1.py#L72-L89
 	
-	link for classes   :https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/Screenshot_20230122_042035.png
+	link for classes   : https://github.com/atikul-islam-sajib/Software/blob/f166d4d3f2ea67a380f82e30c6611149f1ce87e5/Project/colon_cancer_classification_using_cnn_%26_transfer_learning_%26_fine_tuning%20updated1.py#L855-L881
 
                    -------------------------------------------------------------------------------------------------------------------
 		   
