@@ -126,22 +126,27 @@ In Google Colab pro my fav key-shortcuts is:
  
 2. Delete cell using `ctrl + m + d` - when the cell is not necessary.
 
+ 
  link: https://github.com/atikul-islam-sajib/Software/blob/main/IDE-key-shortcut/delete-cell.jpg
  
 3. Mount  GOOGLE DRIVE TO Colab. Just click `Copy to Drive` to mount the drive. That helped me to access the drive where all my image dataset present.
 
- link: https://github.com/atikul-islam-sajib/Software/tree/main/IDE-key-shortcut
+ 
+ link: https://github.com/atikul-islam-sajib/Software/blob/main/IDE-key-shortcut/IMG-3717.jpg
  
 4. Active GPU & TPU just clicking `Runtime → Change runtime type → Hardware accelerator`.
 
+ 
  link: https://github.com/atikul-islam-sajib/Software/blob/main/IDE-key-shortcut/set-GPU-TPU.png
  
 5. Run BASH Commands, for example, if I want to clone git repository then run it on the cell `!git clone <REPOSITORY URL>`
 
- link: https://github.com/atikul-islam-sajib/Software/blob/main/IDE-key-shortcut/git-clone.png
+ 
+  link: https://github.com/atikul-islam-sajib/Software/blob/main/IDE-key-shortcut/git-clone.png
  
 6. Use TENSORBOARD With Colab - It is useful for deep learning because it will give the proper information about loss and accuracy plot in each epoch. run `%load_ext tensorboard` in the cell.
 
+  
   link: https://github.com/atikul-islam-sajib/Software/blob/main/IDE-key-shortcut/tensorboard.png
 
 ======================== For 11 ========================
