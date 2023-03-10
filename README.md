@@ -83,9 +83,21 @@ https://github.com/atikul-islam-sajib/Software/blob/main/.github/workflows/pytho
 
 ======================== For 9 ========================
 
-Integrated Development Environment(IDE): I used anaconda and jupyter notebook and Specially Google Colab Pro as my IDE. 
-My favourite shortcut is: write first few words and hit tab, Easy links to documentation, Plotting in notebooks, and IPython Magic – Timing.
+Integrated Development Environment(IDE):
 
+Visual Studio is a popular Integrated Development Environment (IDE) that provides a comprehensive set of tools for developing Python applications. Here are some reasons why Visual Studio is considered easy for Python development:
+
+1. User-friendly interface: Visual Studio provides a user-friendly interface with features like Intellisense, which offers intelligent code completion, making it easy for developers to write Python code quickly and efficiently.
+
+2. Rich set of features: Visual Studio provides a rich set of features, including debugging, profiling, unit testing, and code analysis, which help developers to write high-quality Python code.
+
+3. Cross-platform support: Visual Studio supports cross-platform Python development, allowing developers to write Python code that runs on Windows, Linux, and macOS.
+Integration with popular Python frameworks and libraries: Visual Studio integrates seamlessly with popular Python frameworks and libraries like Django, Flask, and NumPy, making it easy for developers to create applications using these frameworks.
+
+4. Collaboration tools: Visual Studio provides collaboration tools like Git integration and Live Share, which allow developers to work together on the same project in real-time, making it easy for teams to collaborate on Python projects.
+
+
+Overall, Visual Studio provides a comprehensive set of tools and features that make it easy for developers to write, test, and deploy Python applications.
 
 ======================== For 11 ========================
 
