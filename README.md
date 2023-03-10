@@ -138,6 +138,11 @@ I used some of the given functinal programming concept on my codebase. Some of p
 
 https://github.com/atikul-islam-sajib/Software/blob/831794185a54f4151d14e29ef029882b6979664a/Project/colon_cancer_classification_using_cnn_%26_transfer_learning_%26_fine_tuning%20updated1.py#L793-L798
 
+
+https://github.com/atikul-islam-sajib/Software/blob/9d944553d412c5fefdec05fc54504fb1b8f870c4/Project/colon_cancer_classification_using_cnn_%26_transfer_learning_%26_fine_tuning%20updated1.py#L304-L306
+
+
+
 2. The use of higher-order functions:
 
 https://github.com/atikul-islam-sajib/Software/blob/831794185a54f4151d14e29ef029882b6979664a/Project/colon_cancer_classification_using_cnn_%26_transfer_learning_%26_fine_tuning%20updated1.py#L812-L816
