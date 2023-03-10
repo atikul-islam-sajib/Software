@@ -87,17 +87,26 @@ https://github.com/atikul-islam-sajib/Software/tree/main/Metrics
 
 ======================== For 5(A) ========================
 
-Clean Code Development: Clean code is code that is easy to understand and easy to change. In my project, I try to do clean coding. Five points for clean code:
+Clean Code Development: Clean code is code that is easy to understand and easy to change. In my project, I try to do clean coding. here are five points to show you clean code in Python:
 
- 						Use proper name for variable and method.
- 						Single purpose method.
-						Write comment when needed.
-						Don't use large number parameters.
-						Handle error properly.
-						All of Screnshort can be found in this link:
-							
+1. Use of descriptive variable names: When writing clean code, it's important to use descriptive variable names that are easy to understand. This makes the code more readable and maintainable. For example, instead of using a variable name like "a", you can use a more descriptive name like "num_of_items" or "customer_name".
 
-https://github.com/atikul-islam-sajib/Software/tree/main/Cleaning_Code
+link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/Screenshot_20230122_042259.png
+
+2. Proper indentation: Python relies on indentation to define the scope of code blocks. Therefore, it's important to use proper indentation to make your code more readable. For example, each level of indentation should be four spaces.
+link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/Error%20Handling.png
+
+3. Avoid long lines: Long lines of code can be difficult to read and understand. It's recommended to keep lines of code to a maximum of 79 characters. If a line needs to be longer than this, you can split it into multiple lines using parentheses.
+
+link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_1.png
+
+4. Use of comments: Comments are useful for explaining what your code is doing and why you're doing it. However, it's important to use them sparingly and only when necessary. Too many comments can clutter your code and make it harder to read.
+
+link: https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_3.png
+
+5. Consistent naming conventions: When naming variables, functions, and classes, it's important to follow a consistent naming convention. This makes it easier to understand the purpose of each item in your code. For example, you can use camelCase or snake_case for variable names, depending on your personal preference. Similarly, you can use PascalCase for class names.
+
+link:https://github.com/atikul-islam-sajib/Software/blob/main/Cleaning_Code/cleaning_code_2.png
 
 
 ========================  For 5(B) ========================
