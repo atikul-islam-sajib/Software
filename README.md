@@ -49,6 +49,8 @@ This python sandbox uses Brython (BSD 3-Clause "New" or "Revised" License), it i
 Be careful, there may be differences between the result obtained on this page, and the result you would obtain with a python interpreter.
 This page just allows you to quickly test a few lines of code.
 
+`In this software, there is some red mark will be appeared, it does not mean that the code that I written is wrong. There is given some update, for example, Indentation, make space between two functions call etc. If we hover to the red mark then there is a tooltiptext would be apperaed there all the necessity steps are written.`
+
 Link: 
 https://www.pythonchecker.com/
 https://extendsclass.com/python-tester.html
