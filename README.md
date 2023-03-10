@@ -60,15 +60,15 @@ This page just allows you to quickly test a few lines of code.
 				Here are some of the common issues that PyChecker and python-tester can help you detect:
 				--------------------------------------------------------------------------------------------------------------------
 
-			        1. Undefined variables: PyChecker can detect when you try to use a variable that has not been defined in your code.
+			        1. Undefined variables: It can detect when you try to use a variable that has not been defined in your code.
 
-				2. Unused variables: PyChecker can detect when you define a variable but never use it in your code.
+				2. Unused variables: It can detect when you define a variable but never use it in your code.
 
-				3. Unused imports: PyChecker can detect when you import a module but never use any of its functions or classes.
+				3. Unused imports: It can detect when you import a module but never use any of its functions or classes.
 
-				4. Function call errors: PyChecker can detect when you call a function with the wrong number or type of arguments.
+				4. Function call errors: It can detect when you call a function with the wrong number or type of arguments.
 
-                                5. Attribute errors: PyChecker can detect when you try to access an attribute that does not exist on an object.
+                                5. Attribute errors: It can detect when you try to access an attribute that does not exist on an object.
 				
 				
 				
