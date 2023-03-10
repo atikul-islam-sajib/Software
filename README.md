@@ -45,7 +45,7 @@ Python checker allows to check your Python code syntax (Python 3), and find Pyth
 Python tester and checker allows to test Python code Online without install, all you need is a browser. You can test your Python code easily and quickly.
 PyChecker and python-tester is a static analysis tool for Python that checks your code for common errors and issues. It can help you find problems in your code before you run it, which can save you time and reduce the risk of bugs and other issues.
 				
-Here are some of the common issues that PyChecker and python-tester can help you detect:
+Here are some of the common issues that PyChecker and python-tester can help us detect:
 
 1. Undefined variables
 
